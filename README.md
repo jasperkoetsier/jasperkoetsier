@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello!
+### I am Jasper Koetsier, currently AI student at Utrecht University. 
 
 <!--
 **jasperkoetsier/jasperkoetsier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
